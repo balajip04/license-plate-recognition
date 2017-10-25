@@ -1,0 +1,3 @@
+etc/license-plate-recognition/alprd.conf
+usr/share/license-plate-recognition/config/alprd.defaults.conf
+usr/bin/alprd

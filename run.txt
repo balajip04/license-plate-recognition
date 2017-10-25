@@ -1,0 +1,10 @@
+# Build docker image
+docker build -t license-plate-recognition .
+docker run -d -p 9000:9000 license-plate-recognition
+
+#to chk the image names
+docker ps
+docker logs -f names
+
+#remove all images
+docker rm -f $(docker ps -a -q)

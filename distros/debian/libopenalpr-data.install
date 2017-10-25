@@ -1,0 +1,3 @@
+etc/license-plate-recognition/openalpr.conf
+usr/share/license-plate-recognition/config/openalpr.defaults.conf
+usr/share/license-plate-recognition/runtime_data

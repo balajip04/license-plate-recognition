@@ -29,6 +29,6 @@ public class SwaggerConfig {
 	public ApiInfo getApiInfo() {
 		return new ApiInfo("license-plate-recognition REST API", "license-plate-recognition", "1.0",
 				"Terms of service URL (May be a confluence page)",
-				new Contact("Balaaji Parthasarathy", "", "bparthasarathy@cars.com"), "Cars Internal License", "Link to Cars Internal License");
+				new Contact("Balaaji Parthasarathy", "", ""), "", "");
 	}
 }
